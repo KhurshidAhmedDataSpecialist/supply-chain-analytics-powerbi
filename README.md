@@ -20,6 +20,19 @@ The objective was to develop a centralized analytical solution that enables supp
 - Analyze supplier performance and contribution
 - Evaluate procurement efficiency and lead-time patterns
 - Identify areas requiring further operational investigation
+## 📊 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/01-executive-overview.png)
+
+### Inventory & Demand
+
+![Inventory & Demand](screenshots/02-inventory-demand.png)
+
+### Supplier & Procurement
+
+![Supplier & Procurement](screenshots/03-supplier-procurement.png)
 
 ## 📑 Dashboard Pages
 
