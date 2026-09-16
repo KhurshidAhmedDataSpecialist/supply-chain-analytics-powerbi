@@ -20,6 +20,17 @@ The objective was to develop a centralized analytical solution that enables supp
 - Analyze supplier performance and contribution
 - Evaluate procurement efficiency and lead-time patterns
 - Identify areas requiring further operational investigation
+## 📊 Dataset
+
+**Source:** Kaggle — [High-Dimensional Supply Chain Inventory Dataset](https://www.kaggle.com/datasets/ziya07/high-dimensional-supply-chain-inventory-dataset)
+
+The dataset contains simulated daily, SKU-level supply chain data covering sales, inventory levels, supplier lead times, warehouses, regions, reorder points, promotions, costs, prices, and forecasted demand.
+
+**License:** CC0 — Public Domain
+
+The dataset was used as the foundation for the Power BI analysis and dashboard development in this project.
+
+
 ## 📊 Dashboard Preview
 
 ### Executive Overview
